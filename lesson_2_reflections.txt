@@ -11,3 +11,9 @@ It helps group files together
 How can you use the staging area to make sure you have one commit per logical change?
 
 by splitting upp to smaller commits if you have been editing two separate files
+
+What are some situations when branches would be helpful in keeping your history organized?
+How would branches help?
+
+When I do a mayor change or a change that might not make the code better
+Branches can lett me try something out paralel to working on the original code.
