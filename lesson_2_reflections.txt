@@ -17,3 +17,7 @@ How would branches help?
 
 When I do a mayor change or a change that might not make the code better
 Branches can lett me try something out paralel to working on the original code.
+
+How do the diagrams help you visualize the branch structure?
+
+it gives an overview and lessen the brainfuck
