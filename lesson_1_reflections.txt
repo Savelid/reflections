@@ -1,0 +1,8 @@
+I only had to look for a difference
+
+I will have less problem thowing out old unused code and keep my files cleaner.
+
+You can add comments and the code will be in a reasonable working state
+
+In some cases it make sence to have a multi file project in others not.
+
