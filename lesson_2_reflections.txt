@@ -8,3 +8,6 @@ What value do you think it offers?
 
 It helps group files together
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+by splitting upp to smaller commits if you have been editing two separate files
