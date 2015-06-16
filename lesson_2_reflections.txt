@@ -21,3 +21,8 @@ Branches can lett me try something out paralel to working on the original code.
 How do the diagrams help you visualize the branch structure?
 
 it gives an overview and lessen the brainfuck
+
+What is the result of merging two branches together?
+Why do we represent it in the diagram the way we do?
+
+We combine all the changes that have been made
